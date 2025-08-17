@@ -9,7 +9,7 @@ import google.generativeai as genai
 import json
 
 # Konfigurasi API key Gemini
-GOOGLE_API_KEY = "AIzaSyAo-QhLW7V9hTwy4cM63QqeVufzMr-Sch8" 
+GOOGLE_API_KEY = "AIzaSyAo-QhLW7V9hTwy4cM63QqeVufzMr-33Sch8" 
 genai.configure(api_key=GOOGLE_API_KEY)
 
 # Prapemrosesan teks 
